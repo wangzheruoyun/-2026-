@@ -1,15 +1,17 @@
-# Android build artifacts
+# Gradle caches
 android/.gradle/
-android/build/
-android/app/build/*.bin
-android/app/build/intermediates/
-android/app/build/tmp/
-android/app/build/reports/
-android/app/build/outputs/logs/
 
-# Keep the APK but exclude build intermediates
-!android/app/build/outputs/apk/debug/app-debug.apk
+# Build intermediates (not build outputs - keep the APK)
+android/**/build/intermediates/
+android/**/build/tmp/
+android/**/build/reports/
+android/**/build/*.bin
+android/**/build/outputs/logs/
 
 # IDE
 .idea/
 *.iml
+
+# OS
+.DS_Store
+Thumbs.db
