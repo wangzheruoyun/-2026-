@@ -1,0 +1,830 @@
+[2026-06-25 05:55:58.016 Uid(value=10609):6059:6059 I/nax.jumpandjump]
+Late-enabling -Xcheck:jni
+
+[2026-06-25 05:55:58.039 Uid(value=10609):6059:6059 E/nax.jumpandjump]
+Unknown bits set in runtime_flags: 0x40000000
+
+[2026-06-25 05:55:58.039 Uid(value=10609):6059:6059 I/nax.jumpandjump]
+Using CollectorTypeCC GC.
+
+[2026-06-25 05:55:58.056 Uid(value=10609):6059:6059 W/libc]
+Access denied finding property "persist.vendor.sys.activitylog"
+
+[2026-06-25 05:55:58.056 Uid(value=10609):6059:6059 I/OneTrace]
+Mark active for pid=6059? true
+
+[2026-06-25 05:55:58.057 Uid(value=10609):6059:6059 D/cutils-dev]
+otrace_set_tracing_enabled? true tag:0
+
+[2026-06-25 05:55:58.058 Uid(value=10609):6059:6059 D/cutils-dev]
+properties changed in otrace_seq_number_changed!
+
+[2026-06-25 05:55:58.074 Uid(value=10609):6059:6059 D/OplusActivityManager]
+get AMS extension: android.os.BinderProxy@2b7f184
+
+[2026-06-25 05:55:58.090 Uid(value=10609):6059:6086 D/CompatibilityInfo]
+setOverrideInvertedScale  1.0 to 1.0
+
+[2026-06-25 05:55:58.090 Uid(value=10609):6059:6059 D/CompatibilityChangeReporter]
+Compat change id reported: 171979766; UID 10609; state: ENABLED
+
+[2026-06-25 05:55:58.091 Uid(value=10609):6059:6086 D/ColorModeChangeItem]
+preExecute mColorMode=0,token=android.os.BinderProxy@61f8da2
+
+[2026-06-25 05:55:58.120 Uid(value=10609):6059:6059 I/OplusFeatureCache]
+Milliseconds spent on init(): 29
+
+[2026-06-25 05:55:58.121 Uid(value=10609):6059:6059 D/CompactWindowAppManager]
+initCompactApplicationInfo CompactMode: , NormalMode: 
+
+[2026-06-25 05:55:58.127 Uid(value=10609):6059:6059 D/OplusScrollToTopManager]
+setIsInWhiteList false
+
+[2026-06-25 05:55:58.127 Uid(value=10609):6059:6059 D/OplusViewDebugManager]
+OplusViewDebugManager Constructor android.view.debug.OplusViewDebugManager@f704369 [mHasViewDebugProperty true] [mHasMsgDebugProperty false] [DEBUG false] [EXTRAINFOENABLE false] [LIGHT_OS false]
+
+[2026-06-25 05:55:58.134 Uid(value=10609):6059:6059 D/CompatibilityChangeReporter]
+Compat change id reported: 242716250; UID 10609; state: ENABLED
+
+[2026-06-25 05:55:58.139 Uid(value=10609):6059:6059 W/libc]
+Access denied finding property "ro.odm.prev.product.name"
+
+[2026-06-25 05:55:58.140 Uid(value=10609):6059:6059 W/ziparchive]
+Unable to open '/data/app/~~WO1ToX3MmJmdBDsjjjWZSg==/com.ouanax.jumpandjump-VpfofAoKmBTB-872zhoDtQ==/base.dm': No such file or directory
+
+[2026-06-25 05:55:58.140 Uid(value=10609):6059:6059 W/ziparchive]
+Unable to open '/data/app/~~WO1ToX3MmJmdBDsjjjWZSg==/com.ouanax.jumpandjump-VpfofAoKmBTB-872zhoDtQ==/base.dm': No such file or directory
+
+[2026-06-25 05:55:58.165 Uid(value=10609):6059:6059 D/nativeloader]
+Configuring clns-4 for other apk /data/app/~~WO1ToX3MmJmdBDsjjjWZSg==/com.ouanax.jumpandjump-VpfofAoKmBTB-872zhoDtQ==/base.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~WO1ToX3MmJmdBDsjjjWZSg==/com.ouanax.jumpandjump-VpfofAoKmBTB-872zhoDtQ==/lib/arm64, permitted_path=/data:/mnt/expand:/data/user/0/com.ouanax.jumpandjump
+
+[2026-06-25 05:55:58.174 Uid(value=10609):6059:6059 V/GraphicsEnvironment]
+Currently set values for:
+
+[2026-06-25 05:55:58.174 Uid(value=10609):6059:6059 V/GraphicsEnvironment]
+  angle_gl_driver_selection_pkgs=[]
+
+[2026-06-25 05:55:58.174 Uid(value=10609):6059:6059 V/GraphicsEnvironment]
+  angle_gl_driver_selection_values=[]
+
+[2026-06-25 05:55:58.174 Uid(value=10609):6059:6059 V/GraphicsEnvironment]
+ANGLE GameManagerService for com.ouanax.jumpandjump: false
+
+[2026-06-25 05:55:58.174 Uid(value=10609):6059:6059 V/GraphicsEnvironment]
+com.ouanax.jumpandjump is not listed in per-application setting
+
+[2026-06-25 05:55:58.174 Uid(value=10609):6059:6059 V/GraphicsEnvironment]
+Updatable production driver is not supported on the device.
+
+[2026-06-25 05:55:58.175 Uid(value=10609):6059:6059 W/nax.jumpandjump]
+start reset regions. 2048 4096
+
+[2026-06-25 05:55:58.177 Uid(value=10609):6059:6059 D/ResourcesManagerExtImpl]
+applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+
+[2026-06-25 05:55:58.196 Uid(value=10609):6059:6097 D/OplusGraphicsEvent]
+OplusGraphicsEventListener create now!
+
+[2026-06-25 05:55:58.197 Uid(value=10609):6059:6097 D/OplusGraphicsEvent]
+addEventListener success!
+
+[2026-06-25 05:55:58.199 Uid(value=10609):6059:6059 D/ResourcesManagerExtImpl]
+applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+
+[2026-06-25 05:55:58.200 Uid(value=10609):6059:6099 E/nax.jumpandjump]
+Loaded layer handle (10407358842583909975) for layer /my_product/lib64/libcolorx-loader.so
+
+[2026-06-25 05:55:58.200 Uid(value=10609):6059:6099 E/nax.jumpandjump]
+Looking for entrypoint ColorX_Check
+
+[2026-06-25 05:55:58.200 Uid(value=10609):6059:6099 E/nax.jumpandjump]
+Found ColorX_Check for /my_product/lib64/libcolorx-loader.so
+
+[2026-06-25 05:55:58.200 Uid(value=10609):6059:6099 E/nax.jumpandjump]
+Check failed
+
+[2026-06-25 05:55:58.202 Uid(value=10609):6059:6059 D/AppCompatDelegate]
+Checking for metadata for AppLocalesMetadataHolderService : Service not found
+
+[2026-06-25 05:55:58.215 Uid(value=10609):6059:6059 I/oplus.android.OplusFrameworkFactoryImpl]
+Unknow feature:IOplusTextViewRTLUtilForUG
+
+[2026-06-25 05:55:58.220 Uid(value=10609):6059:6059 I/WebViewFactory]
+Loading com.google.android.webview version 117.0.5938.60 (code 593806033)
+
+[2026-06-25 05:55:58.222 Uid(value=10609):6059:6059 W/ziparchive]
+Unable to open '/my_bigball/app/TrichromeLibrary64CN/TrichromeLibrary64CN.dm': No such file or directory
+
+[2026-06-25 05:55:58.222 Uid(value=10609):6059:6059 W/ziparchive]
+Unable to open '/my_bigball/app/TrichromeLibrary64CN/TrichromeLibrary64CN.dm': No such file or directory
+
+[2026-06-25 05:55:58.222 Uid(value=10609):6059:6059 W/nax.jumpandjump]
+Entry not found
+
+[2026-06-25 05:55:58.223 Uid(value=10609):6059:6059 D/nativeloader]
+Configuring clns-5 for other apk /my_bigball/app/TrichromeLibrary64CN/TrichromeLibrary64CN.apk. target_sdk_version=34, uses_libraries=ALL, library_path=/my_bigball/app/WebViewGoogle64CN/lib/arm64:/my_bigball/app/WebViewGoogle64CN/WebViewGoogle64CN.apk!/lib/arm64-v8a:/my_bigball/app/TrichromeLibrary64CN/TrichromeLibrary64CN.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
+
+[2026-06-25 05:55:58.223 Uid(value=10609):6059:6059 D/nativeloader]
+Extending system_exposed_libraries: libbinauralrenderer_wrapper.qti.so:libhoaeffects.qti.so:libSloganJni.oplus.so:libsuperNight.oplus.so:libAPSClient-cmd-jni-extension.oplus.so:libsatellite_audio_jni.oplus.so:libupdateprof.qti.so:libQOC.qti.so:libthermalclient.qti.so:libqape.qti.so:libqesdk_ndk_platform.qti.so:liblistenjni.qti.so
+
+[2026-06-25 05:55:58.232 Uid(value=10609):6059:6059 D/nativeloader]
+Configuring clns-6 for other apk /my_bigball/app/WebViewGoogle64CN/WebViewGoogle64CN.apk. target_sdk_version=34, uses_libraries=, library_path=/my_bigball/app/WebViewGoogle64CN/lib/arm64:/my_bigball/app/WebViewGoogle64CN/WebViewGoogle64CN.apk!/lib/arm64-v8a:/my_bigball/app/TrichromeLibrary64CN/TrichromeLibrary64CN.apk!/lib/arm64-v8a, permitted_path=/data:/mnt/expand
+
+[2026-06-25 05:55:58.253 Uid(value=10609):6059:6059 I/cr_WVCFactoryProvider]
+Loaded version=117.0.5938.60 minSdkVersion=29 isBundle=true multiprocess=true packageId=2
+
+[2026-06-25 05:55:58.269 Uid(value=10609):6059:6106 E/chromium]
+[0625/055558.267588:ERROR:variations_seed_loader.cc(69)] Failed to open file for reading. Errno: 2
+
+[2026-06-25 05:55:58.270 Uid(value=10609):6059:6106 E/chromium]
+[0625/055558.270271:ERROR:variations_seed_loader.cc(69)] Failed to open file for reading. Errno: 2
+
+[2026-06-25 05:55:58.292 Uid(value=10609):6059:6059 I/cr_LibraryLoader]
+Successfully loaded native library
+
+[2026-06-25 05:55:58.293 Uid(value=10609):6059:6059 I/cr_CachingUmaRecorder]
+Flushed 7 samples from 7 histograms, 0 samples were dropped.
+
+[2026-06-25 05:55:58.306 Uid(value=10609):6059:6059 W/cr_PlatformSer-Internal]
+GMS is installed but not enabled
+
+[2026-06-25 05:55:58.344 Uid(value=10609):6059:6059 D/CompatibilityChangeReporter]
+Compat change id reported: 183155436; UID 10609; state: ENABLED
+
+[2026-06-25 05:55:58.429 Uid(value=10609):6059:6120 W/chromium]
+[WARNING:dns_config_service_android.cc(81)] Failed to read DnsConfig.
+
+[2026-06-25 05:55:58.463 Uid(value=10609):6059:6059 D/CompatibilityChangeReporter]
+Compat change id reported: 214741472; UID 10609; state: ENABLED
+
+[2026-06-25 05:55:58.466 Uid(value=10609):6059:6059 D/CompatibilityChangeReporter]
+Compat change id reported: 171228096; UID 10609; state: ENABLED
+
+[2026-06-25 05:55:58.496 Uid(value=10609):6059:6059 D/ExtensionsLoader]
+createInstance(64bit) : createExtendedFactory
+
+[2026-06-25 05:55:58.497 Uid(value=10609):6059:6059 D/ExtensionsLoader]
+Opened libSchedAssistExtImpl.so
+
+[2026-06-25 05:55:58.497 Uid(value=10609):6059:6059 E/SchedAssist]
+sysOpen failed with error=Permission denied
+
+[2026-06-25 05:55:58.497 Uid(value=10609):6059:6059 E/SchedAssist]
+sharedImFd failed with error=Permission denied
+
+[2026-06-25 05:55:58.502 Uid(value=10609):6059:6059 D/ScrollOptim [ConfigManager]]
+initOptConfig: pkg= com.ouanax.jumpandjump, mOptEnable= true, mAnimAheadEnable= true, mInsertDefaultNum= 1, mFrameInsertEnableList= {}, mSCEnableList= []
+
+[2026-06-25 05:55:58.546 Uid(value=10609):6059:6059 D/OplusInputMethodUtil]
+init sDebug to false, init sDebugIme to false, init sAlwaysOn to false
+
+[2026-06-25 05:55:58.546 Uid(value=10609):6059:6059 D/OplusInputMethodUtil]
+updateDebugToClass InputMethodManager.DEBUG = false
+
+[2026-06-25 05:55:58.546 Uid(value=10609):6059:6059 D/OplusInputMethodUtil]
+updateDebugToClass ImeFocusController.DEBUG = false
+
+[2026-06-25 05:55:58.546 Uid(value=10609):6059:6059 D/OplusInputMethodUtil]
+updateDebugToClass BaseInputConnection.DEBUG = false
+
+[2026-06-25 05:55:58.557 Uid(value=10609):6059:6059 W/nax.jumpandjump]
+Accessing hidden method Landroid/view/View;->computeFitSystemWindows(Landroid/graphics/Rect;Landroid/graphics/Rect;)Z (unsupported, reflection, allowed)
+
+[2026-06-25 05:55:58.557 Uid(value=10609):6059:6059 W/nax.jumpandjump]
+Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+
+[2026-06-25 05:55:58.591 Uid(value=10609):6059:6198 W/cr_media]
+BLUETOOTH_CONNECT permission is missing.
+
+[2026-06-25 05:55:58.591 Uid(value=10609):6059:6198 W/cr_media]
+registerBluetoothIntentsIfNeeded: Requires BLUETOOTH permission
+
+[2026-06-25 05:55:58.594 Uid(value=10609):6059:6059 I/Quality]
+ActivityThread: activityStart delay 402 com.ouanax.jumpandjump 6059
+
+[2026-06-25 05:55:58.597 Uid(value=10609):6059:6059 D/ScrollOptim [SceneManager]]
+updateCurrentActivity: mCurrentActivityName=com.ouanax.jumpandjump.MainActivity, isOptEnable=true, isAnimAheadEnable=true, isFrameInsertEnable=true, InsertNum=1, isEnabledForScrollChanged=false
+
+[2026-06-25 05:55:58.597 Uid(value=10609):6059:6059 D/ActivityThread]
+ComponentInfo{com.ouanax.jumpandjump/com.ouanax.jumpandjump.MainActivity} checkFinished=false 2
+
+[2026-06-25 05:55:58.597 Uid(value=10609):6059:6059 D/ResourcesManagerExtImpl]
+applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+
+[2026-06-25 05:55:58.603 Uid(value=10609):6059:6059 D/ExtensionsLoader]
+createInstance(64bit) : createExtendedFactory
+
+[2026-06-25 05:55:58.604 Uid(value=10609):6059:6059 D/ExtensionsLoader]
+Opened libguiextimpl.so
+
+[2026-06-25 05:55:58.607 Uid(value=10609):6059:6059 D/CompatibilityChangeReporter]
+Compat change id reported: 237531167; UID 10609; state: DISABLED
+
+[2026-06-25 05:55:58.608 Uid(value=10609):6059:6295 I/AdrenoGLES-0]
+QUALCOMM build                   : 6129fbc570, I5a3b7da999
+Build Date                       : 02/23/24
+OpenGL ES Shader Compiler Version: E031.41.03.47
+Local Branch                     : 
+Remote Branch                    : refs/tags/AU_LINUX_ANDROID_LA.VENDOR.13.2.0.11.00.00.855.759
+Remote Branch                    : NONE
+Reconstruct Branch               : NOTHING
+
+[2026-06-25 05:55:58.608 Uid(value=10609):6059:6295 I/AdrenoGLES-0]
+Build Config                     : S P 14.1.4 AArch64
+
+[2026-06-25 05:55:58.608 Uid(value=10609):6059:6295 I/AdrenoGLES-0]
+Driver Path                      : /vendor/lib64/egl/libGLESv2_adreno.so
+
+[2026-06-25 05:55:58.608 Uid(value=10609):6059:6295 I/AdrenoGLES-0]
+Driver Version                   : 0676.57
+
+[2026-06-25 05:55:58.610 Uid(value=10609):6059:6059 I/DynamicFramerate [FRTCConfigManager]]
+initFrameRateConfig: 
+	levels: [120, 90, 72, 60]
+	thresholds: [1080, 300, 200]
+	scrollbar fade frame rate: 0
+
+[2026-06-25 05:55:58.610 Uid(value=10609):6059:6059 I/DynamicFramerate [FRTCConfigManager]]
+FRTCConfigManager: FRTC_CAPABILITY = 360, package name = com.ouanax.jumpandjump, WINDOW_ANIMATION_SPEED_RATE = 10, SCROLL_ANIMATION_SPEED_RATE = 20, MuitiWindowIdleFramerate = 60, PACKAGE_ENABLE = false
+
+[2026-06-25 05:55:58.610 Uid(value=10609):6059:6059 I/DynamicFramerate [DynamicFrameRateController]]
+init info: mPackageName = com.ouanax.jumpandjump, mIsEnabled = false
+
+[2026-06-25 05:55:58.610 Uid(value=10609):6059:6059 D/WindowManager]
+Add to mViews: DecorView@1c03b8[MainActivity],pkg= com.ouanax.jumpandjump
+
+[2026-06-25 05:55:58.612 Uid(value=10609):6059:6097 D/ExtensionsLoader]
+createInstance(64bit) : createExtendedFactory
+
+[2026-06-25 05:55:58.614 Uid(value=10609):6059:6097 D/ExtensionsLoader]
+Opened libhwuiextimpl.so
+
+[2026-06-25 05:55:58.616 Uid(value=10609):6059:6059 D/ExtensionsLoader]
+createInstance(64bit) : createExtendedFactory
+
+[2026-06-25 05:55:58.617 Uid(value=10609):6059:6059 D/ExtensionsLoader]
+Opened libSchedAssistExtImpl.so
+
+[2026-06-25 05:55:58.619 Uid(value=10609):6059:6295 I/AdrenoGLES-0]
+PFP: 0x01740168, ME: 0x00000000
+
+[2026-06-25 05:55:58.631 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+onDisplayChanged -1 for VRI android.view.ViewRootImpl@469a364
+
+[2026-06-25 05:55:58.634 Uid(value=10609):6059:6059 D/InputEventReceiver]
+Input log is disabled in InputEventReceiver.
+
+[2026-06-25 05:55:58.636 Uid(value=10609):6059:6295 I/AdrenoUtils]
+<ReadGpuID:407>: Reading chip ID through GSL
+
+[2026-06-25 05:55:58.645 Uid(value=10609):6059:6059 D/ResourcesManagerExtImpl]
+applyConfigurationToAppResourcesLocked app.getDisplayId() return callback.displayId:-1
+
+[2026-06-25 05:55:58.650 Uid(value=10609):6059:6168 D/CompatibilityChangeReporter]
+Compat change id reported: 247079863; UID 10609; state: ENABLED
+
+[2026-06-25 05:55:58.652 Uid(value=10609):6059:6059 I/Quality]
+Skipped: false 6 cost 54.930054 refreshRate 8276918 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:55:58.659 Uid(value=10609):6059:6059 E/OplusBracketLog]
+[OplusViewMirrorManager] updateHostViewRootIfNeeded, not support android.view.ViewRootImpl@469a364
+
+[2026-06-25 05:55:58.661 Uid(value=10609):6059:6059 D/CompatibilityChangeReporter]
+Compat change id reported: 193247900; UID 10609; state: ENABLED
+
+[2026-06-25 05:55:58.665 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+wrapConfigInfoIntoFlags rotation=0, smallestScreenWidthDp=425, relayoutAsync=false, newFlags=27852800, title=com.ouanax.jumpandjump/com.ouanax.jumpandjump.MainActivity
+
+[2026-06-25 05:55:58.686 Uid(value=10609):6059:6059 D/VRI[MainActivity]]
+relayoutWindow result, sizeChanged:true, surfaceControlChanged:true, transformHintChanged:true, mSurfaceSize:Point(1264, 2640), mLastSurfaceSize:Point(0, 0), mWidth:-1, mHeight:-1, requestedWidth:1264, requestedHeight:2640, transformHint:0, lastTransformHint:-2147483648, installOrientation:0, displayRotation:0, isSurfaceValid:true, attr.flag:-2122252032, useBlast:true, tmpFrames:ClientWindowFrames{frame=[0,140][1264,2780] display=[0,140][1264,2780] parentFrame=[0,0][0,0]}, params:{(0,0)(fillxfill) sim={adjust=nothing forwardNavigation} ty=BASE_APPLICATION wanim=0x10302fe
+  fl=LAYOUT_IN_SCREEN LAYOUT_INSET_DECOR SPLIT_TOUCH HARDWARE_ACCELERATED DRAWS_SYSTEM_BAR_BACKGROUNDS
+  pfl=NO_MOVE_ANIMATION FORCE_DRAW_STATUS_BAR_BACKGROUND USE_BLAST FIT_INSETS_CONTROLLED
+  vsysui=HIDE_NAVIGATION FULLSCREEN LAYOUT_STABLE LAYOUT_HIDE_NAVIGATION LAYOUT_FULLSCREEN IMMERSIVE_STICKY
+  bhv=SHOW_TRANSIENT_BARS_BY_SWIPE
+  fitSides= CLP[ ]}
+
+[2026-06-25 05:55:58.686 Uid(value=10609):6059:6059 W/VRI[MainActivity]]
+updateBlastSurfaceIfNeeded, surfaceSize:Point(1264, 2640), lastSurfaceSize:Point(0, 0), format:-1, blastBufferQueue:null
+
+[2026-06-25 05:55:58.691 Uid(value=10609):6059:6059 D/BufferQueueConsumer]
+[](id:17ab00000000,api:0,p:-1,c:6059) connect: controlledByApp=false
+
+[2026-06-25 05:55:58.692 Uid(value=10609):6059:6059 D/ExtensionsLoader]
+createInstance(64bit) : createExtendedFactory
+
+[2026-06-25 05:55:58.692 Uid(value=10609):6059:6059 D/ExtensionsLoader]
+Opened libSchedAssistExtImpl.so
+
+[2026-06-25 05:55:58.699 Uid(value=10609):6059:6097 D/BufferQueueProducer]
+[VRI[MainActivity]#0(BLAST Consumer)0](id:17ab00000000,api:1,p:6059,c:6059) connect: api=1 producerControlledByApp=true
+
+[2026-06-25 05:55:58.699 Uid(value=10609):6059:6097 E/OpenGLRenderer]
+Unable to match the desired swap behavior.
+
+[2026-06-25 05:55:58.710 Uid(value=10609):6059:6059 I/SurfaceControl]
+ setExtendedRangeBrightness sc=Surface(name=com.ouanax.jumpandjump/com.ouanax.jumpandjump.MainActivity)/@0x26d29f5,currentBufferRatio=1.0,desiredRatio=1.0
+
+[2026-06-25 05:55:58.750 Uid(value=10609):6059:6097 D/BLASTBufferQueue]
+[VRI[MainActivity]#0](f:0,a:1) acquireNextBufferLocked size=1264x2640 mFrameNumber=1 applyTransaction=true mTimestamp=858512259053439(auto) mPendingTransactions.size=0 graphicBufferId=26023206846465 transform=0
+
+[2026-06-25 05:55:58.750 Uid(value=10609):6059:6097 D/VRI[MainActivity]]
+Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true syncBuffer=false
+
+[2026-06-25 05:55:58.751 Uid(value=10609):6059:6059 D/VRI[MainActivity]]
+draw finished.
+
+[2026-06-25 05:55:58.751 Uid(value=10609):6059:6059 D/VRI[MainActivity]]
+reportDrawFinished
+
+[2026-06-25 05:55:58.751 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+setMaxDequeuedBufferCount: 2
+
+[2026-06-25 05:55:58.756 Uid(value=10609):6059:6059 I/Quality]
+Skipped: false 11 cost 91.44319 refreshRate 8277011 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:55:58.759 Uid(value=10609):6059:6059 W/VRI[MainActivity]]
+handleResized, msg:5, frameChanged:false, configChanged:false, displayChanged:false, attachedFrameChanged:false, compatScaleChanged:false, pendingDragResizing=false
+
+[2026-06-25 05:55:58.767 Uid(value=10609):6059:6059 D/VRI[MainActivity]]
+onFocusEvent true
+
+[2026-06-25 05:55:58.767 Uid(value=10609):6059:6059 W/VRI[MainActivity]]
+handleResized, msg:5, frameChanged:false, configChanged:false, displayChanged:false, attachedFrameChanged:false, compatScaleChanged:false, pendingDragResizing=false
+
+[2026-06-25 05:55:58.769 Uid(value=10609):6059:6097 D/VRI[MainActivity]]
+Received frameCommittedCallback lastAttemptedDrawFrameNum=3 didProduceBuffer=false syncBuffer=false
+
+[2026-06-25 05:55:58.770 Uid(value=10609):6059:6059 D/VRI[MainActivity]]
+draw finished.
+
+[2026-06-25 05:55:58.770 Uid(value=10609):6059:6059 D/VRI[MainActivity]]
+reportDrawFinished
+
+[2026-06-25 05:55:58.771 Uid(value=10609):6059:6417 D/OplusWindowManager]
+get WMS extension: android.os.BinderProxy@c883830
+
+[2026-06-25 05:55:58.950 Uid(value=10609):6059:6206 W/AudioCapabilities]
+Unsupported mime audio/alac
+
+[2026-06-25 05:55:58.951 Uid(value=10609):6059:6206 W/AudioCapabilities]
+Unsupported mime audio/x-ape
+
+[2026-06-25 05:55:58.952 Uid(value=10609):6059:6206 W/AudioCapabilities]
+Unsupported mime audio/dsd
+
+[2026-06-25 05:55:58.952 Uid(value=10609):6059:6206 W/AudioCapabilities]
+Unsupported mime audio/amr-wb-plus
+
+[2026-06-25 05:55:58.952 Uid(value=10609):6059:6206 W/AudioCapabilities]
+Unsupported mime audio/amr-wb+
+
+[2026-06-25 05:55:58.953 Uid(value=10609):6059:6206 W/AudioCapabilities]
+Unsupported mime audio/x-ms-wma
+
+[2026-06-25 05:55:58.953 Uid(value=10609):6059:6206 W/AudioCapabilities]
+Unsupported mime audio/alac
+
+[2026-06-25 05:55:58.954 Uid(value=10609):6059:6206 W/AudioCapabilities]
+Unsupported mime audio/x-ape
+
+[2026-06-25 05:55:59.033 Uid(value=10609):6059:6206 W/VideoCapabilities]
+Unsupported mime image/vnd.android.heic
+
+[2026-06-25 05:55:59.033 Uid(value=10609):6059:6206 W/VideoCapabilities]
+Unsupported mime image/vnd.android.heic
+
+[2026-06-25 05:55:59.036 Uid(value=10609):6059:6206 W/VideoCapabilities]
+Unsupported mime video/dolby-vision
+
+[2026-06-25 05:55:59.039 Uid(value=10609):6059:6206 W/VideoCapabilities]
+Unsupported mime video/dolby-vision
+
+[2026-06-25 05:55:59.066 Uid(value=10609):6059:6206 W/cr_VAUtil]
+Unknown level: 2048 for profile 32 of codec video/dolby-vision
+
+[2026-06-25 05:55:59.066 Uid(value=10609):6059:6206 W/cr_VAUtil]
+Unknown level: 2048 for profile 16 of codec video/dolby-vision
+
+[2026-06-25 05:55:59.066 Uid(value=10609):6059:6206 W/cr_VAUtil]
+Unknown level: 2048 for profile 256 of codec video/dolby-vision
+
+[2026-06-25 05:55:59.066 Uid(value=10609):6059:6206 W/cr_VAUtil]
+Unknown level: 2048 for profile 32 of codec video/dolby-vision
+
+[2026-06-25 05:55:59.066 Uid(value=10609):6059:6206 W/cr_VAUtil]
+Unknown level: 2048 for profile 16 of codec video/dolby-vision
+
+[2026-06-25 05:55:59.066 Uid(value=10609):6059:6206 W/cr_VAUtil]
+Unknown level: 2048 for profile 256 of codec video/dolby-vision
+
+[2026-06-25 05:55:59.091 Uid(value=10609):6059:6059 I/chromium]
+[INFO:CONSOLE(2043)] "THREE.WebGLRenderer 88dev", source: file:///android_asset/game.js (2043)
+
+[2026-06-25 05:55:59.530 Uid(value=10609):6059:6059 I/chromium]
+[INFO:CONSOLE(11036)] "Storage save actionData0 success [object Object]", source: file:///android_asset/game.js (11036)
+
+[2026-06-25 05:55:59.571 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 3 cost 28.88749 refreshRate 8277083 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:55:59.626 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.910585 refreshRate 8276671 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:55:59.809 Uid(value=10609):6059:6419 D/OplusScrollToTopManager]
+com.ouanax.jumpandjump/com.ouanax.jumpandjump.MainActivity,This DecorView@1c03b8[MainActivity] change focus to true
+
+[2026-06-25 05:56:00.684 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 16.449768 refreshRate 8277714 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:00.719 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 10.141375 refreshRate 8277641 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:00.782 Uid(value=10609):6059:6059 D/OplusInputMethodManagerInternal]
+get inputMethodManager extension: com.android.internal.view.IInputMethodManager$Stub$Proxy@7c8b2fe
+
+[2026-06-25 05:56:00.783 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=788.52344, y[0]=1996.3896, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858514286, downTime=858514196, deviceId=-1, source=0x1002, displayId=0, eventId=268631942 } handled by client, just return
+
+[2026-06-25 05:56:00.807 Uid(value=10609):6059:6059 I/Quality]
+Skipped: false 1 cost 15.479092 refreshRate 8277806 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:00.919 Uid(value=10609):6059:6198 I/AAudio]
+AAudioStreamBuilder_openStream() called ----------------------------------------
+
+[2026-06-25 05:56:00.919 Uid(value=10609):6059:6198 I/AudioStreamBuilder]
+rate   =  44100, channels  = 2, channelMask = 0x80000003, format   = 5, sharing = SH, dir = OUTPUT
+
+[2026-06-25 05:56:00.919 Uid(value=10609):6059:6198 I/AudioStreamBuilder]
+device =      0, sessionId = -1, perfMode = 11, callback: ON with frames = 1024, error callback: ON
+
+[2026-06-25 05:56:00.919 Uid(value=10609):6059:6198 I/AudioStreamBuilder]
+usage  =      1, contentType = 0, inputPreset = 0, allowedCapturePolicy = 0
+
+[2026-06-25 05:56:00.919 Uid(value=10609):6059:6198 I/AudioStreamBuilder]
+privacy sensitive = false, opPackageName = (null), attributionTag = (null)
+
+[2026-06-25 05:56:00.919 Uid(value=10609):6059:6198 D/AudioStreamBuilder]
+build() MMAP not used because AAUDIO_PERFORMANCE_MODE_LOW_LATENCY not requested.
+
+[2026-06-25 05:56:00.919 Uid(value=10609):6059:6198 D/nax.jumpandjump]
+PlayerBase::PlayerBase()
+
+[2026-06-25 05:56:00.920 Uid(value=10609):6059:6198 D/AudioStreamTrack]
+open(), request notificationFrames = 0, frameCount = 0
+
+[2026-06-25 05:56:00.920 Uid(value=10609):6059:6198 I/AudioTrack]
+set(): type=audio,case=1,attributes=1,content_type=2,usage=1,source=0,flags=0x200
+
+[2026-06-25 05:56:00.920 Uid(value=10609):6059:6198 D/AudioTrackExtImpl]
+AudioTrackExtImpl init
+
+[2026-06-25 05:56:00.920 Uid(value=10609):6059:6198 D/ExtensionsLoader]
+createInstance(64bit) : createExtendedFactory
+
+[2026-06-25 05:56:00.921 Uid(value=10609):6059:6198 D/ExtensionsLoader]
+Opened libSchedAssistExtImpl.so
+
+[2026-06-25 05:56:00.921 Uid(value=10609):6059:6198 D/AudioTrack]
+set(): streamType -1, sampleRate 44100, format 0x5, channelMask 0x3, frameCount 0, flags #8, notificationFrames 0, sessionId 0, transferType 1, uid -1, pid -1
+
+[2026-06-25 05:56:00.921 Uid(value=10609):6059:6198 I/AudioTrack]
+set(): 0xb400007aff28ee00, Create AudioTrackThread, tid = 6472
+
+[2026-06-25 05:56:00.921 Uid(value=10609):6059:6198 D/ListServiceUtils]
+mListServiceUtils::init CallingPid 6059
+
+[2026-06-25 05:56:00.921 Uid(value=10609):6059:6198 D/ListServiceUtils]
+mListServiceUtils::init this 0xb400007b574e5480
+
+[2026-06-25 05:56:00.922 Uid(value=10609):6059:6198 V/ListServiceUtils]
+getListValueByName module:control package:audioBoostEnable cost 768us return 1
+
+[2026-06-25 05:56:00.922 Uid(value=10609):6059:6198 V/ListServiceUtils]
+checkInListByUid start module:audio-boost-blacklist uid:10609  time 858514431935us
+
+[2026-06-25 05:56:00.922 Uid(value=10609):6059:6198 V/ListServiceUtils]
+checkInListByUid end module:audio-boost-blacklist uid:10609  time 858514432150us
+
+[2026-06-25 05:56:00.922 Uid(value=10609):6059:6198 D/ListServiceUtils]
+checkInListByUid module:audio-boost-blacklist uid:10609 cost 215us return 0
+
+[2026-06-25 05:56:00.923 Uid(value=10609):6059:6198 V/ListServiceUtils]
+getListValueByUid module:audio-boost-3rdUX uid:10609 cost 143us return 0
+
+[2026-06-25 05:56:00.923 Uid(value=10609):6059:6198 D/AudioTrackExtImpl]
+doSchedBoost, set audioapp task boost, pid=6059, tid=6472, enable=1, ret=0
+
+[2026-06-25 05:56:00.961 Uid(value=10609):6059:6198 I/AudioTrack]
+createTrack_l(42482) on outputId(29) : 0xb400007aff28ee00, mCblk = 0x7b4d210000,  mLatency = 189, mAfLatency = 109, frameCount = 3536, mSampleRate = 44100, mFlags = 0x8, mReqFrameCount = 3536, mNotificationFramesAct = 1768
+
+[2026-06-25 05:56:00.961 Uid(value=10609):6059:6198 V/ListServiceUtils]
+getListValueByName module:control package:audioBoostEnable cost 107us return 1
+
+[2026-06-25 05:56:00.961 Uid(value=10609):6059:6198 V/ListServiceUtils]
+checkInListByUid start module:audio-boost-blacklist uid:10609  time 858514471203us
+
+[2026-06-25 05:56:00.962 Uid(value=10609):6059:6198 V/ListServiceUtils]
+checkInListByUid end module:audio-boost-blacklist uid:10609  time 858514471280us
+
+[2026-06-25 05:56:00.962 Uid(value=10609):6059:6198 D/ListServiceUtils]
+checkInListByUid module:audio-boost-blacklist uid:10609 cost 76us return 0
+
+[2026-06-25 05:56:00.962 Uid(value=10609):6059:6198 V/ListServiceUtils]
+getListValueByUid module:audio-boost-3rdUX uid:10609 cost 78us return 0
+
+[2026-06-25 05:56:00.962 Uid(value=10609):6059:6198 D/AudioTrackExtImpl]
+doSchedBoost, set audioapp task boost, pid=6059, tid=6198, enable=1, ret=0
+
+[2026-06-25 05:56:00.962 Uid(value=10609):6059:6198 V/ListServiceUtils]
+checkInListByUid start module:change-futex-timeout uid:10609  time 858514471425us
+
+[2026-06-25 05:56:00.962 Uid(value=10609):6059:6198 V/ListServiceUtils]
+checkInListByUid end module:change-futex-timeout uid:10609  time 858514471525us
+
+[2026-06-25 05:56:00.962 Uid(value=10609):6059:6198 D/ListServiceUtils]
+checkInListByUid module:change-futex-timeout uid:10609 cost 100us return 0
+
+[2026-06-25 05:56:00.962 Uid(value=10609):6059:6198 D/AudioTrack]
+setVolume(42482) left 1.000 right 1.000 , callingPid 6059
+
+[2026-06-25 05:56:00.964 Uid(value=10609):6059:6198 D/AAudioStream]
+setState(s#1) from 0 to 2
+
+[2026-06-25 05:56:00.967 Uid(value=10609):6059:6198 I/AAudio]
+AAudioStreamBuilder_openStream() returns 0 = AAUDIO_OK for s#1 ----------------
+
+[2026-06-25 05:56:00.971 Uid(value=10609):6059:6198 D/AAudio]
+AAudioStream_requestStart(s#1) called --------------
+
+[2026-06-25 05:56:00.971 Uid(value=10609):6059:6198 D/AAudioStream]
+setState(s#1) from 2 to 3
+
+[2026-06-25 05:56:00.971 Uid(value=10609):6059:6198 D/AudioTrack]
+start(42482): prior state:STATE_STOPPED output 29 stream 3 session 224065
+
+[2026-06-25 05:56:01.005 Uid(value=10609):6059:6198 V/ListServiceUtils]
+getListValueByName module:control package:audioBoostEnable cost 195us return 1
+
+[2026-06-25 05:56:01.006 Uid(value=10609):6059:6198 V/ListServiceUtils]
+checkInListByUid start module:audio-boost-blacklist uid:10609  time 858514515234us
+
+[2026-06-25 05:56:01.006 Uid(value=10609):6059:6198 V/ListServiceUtils]
+checkInListByUid end module:audio-boost-blacklist uid:10609  time 858514515336us
+
+[2026-06-25 05:56:01.006 Uid(value=10609):6059:6198 D/ListServiceUtils]
+checkInListByUid module:audio-boost-blacklist uid:10609 cost 101us return 0
+
+[2026-06-25 05:56:01.006 Uid(value=10609):6059:6198 D/AAudio]
+AAudioStream_requestStart(s#1) returned 0 ---------
+
+[2026-06-25 05:56:01.018 Uid(value=10609):6059:6087 D/AudioStreamLegacy]
+onAudioDeviceUpdate(deviceId = 2)
+
+[2026-06-25 05:56:01.029 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 13.018304 refreshRate 8278431 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:01.189 Uid(value=10609):6059:6472 D/AAudioStream]
+setState(s#1) from 3 to 4
+
+[2026-06-25 05:56:02.123 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=833.084, y[0]=2070.0752, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858515619, downTime=858515148, deviceId=-1, source=0x1002, displayId=0, eventId=328078913 } handled by client, just return
+
+[2026-06-25 05:56:02.417 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 11.206525 refreshRate 8276485 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:02.821 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=806.52246, y[0]=2097.7627, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858516319, downTime=858515890, deviceId=-1, source=0x1002, displayId=0, eventId=841780910 } handled by client, just return
+
+[2026-06-25 05:56:02.822 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 9.925255 refreshRate 8277055 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:04.583 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 16.543203 refreshRate 8276528 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:05.785 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 10.049248 refreshRate 8277112 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:06.175 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 11.006021 refreshRate 8276761 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:06.945 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=841.083, y[0]=2067.7002, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858520442, downTime=858519730, deviceId=-1, source=0x1002, displayId=0, eventId=909624459 } handled by client, just return
+
+[2026-06-25 05:56:07.891 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 13.857289 refreshRate 8276515 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:08.073 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 13.539897 refreshRate 8277170 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:08.331 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=875.83203, y[0]=2045.8887, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858521822, downTime=858521151, deviceId=-1, source=0x1002, displayId=0, eventId=494180189 } handled by client, just return
+
+[2026-06-25 05:56:08.331 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 15.482139 refreshRate 8277127 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:08.697 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.649317 refreshRate 8277189 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:08.725 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 12.264626 refreshRate 8277251 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:09.700 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=874.45703, y[0]=2043.5762, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858523202, downTime=858522489, deviceId=-1, source=0x1002, displayId=0, eventId=674023860 } handled by client, just return
+
+[2026-06-25 05:56:09.831 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.331847 refreshRate 8277258 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:10.683 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.504116 refreshRate 8277661 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:11.063 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=889.64355, y[0]=2026.2637, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858524556, downTime=858523747, deviceId=-1, source=0x1002, displayId=0, eventId=729954064 } handled by client, just return
+
+[2026-06-25 05:56:11.467 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 14.040587 refreshRate 8277963 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:12.050 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 2 cost 17.240934 refreshRate 8278536 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:12.361 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=898.8301, y[0]=2024.7637, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858525846, downTime=858525126, deviceId=-1, source=0x1002, displayId=0, eventId=244295663 } handled by client, just return
+
+[2026-06-25 05:56:12.363 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 16.331127 refreshRate 8278430 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:13.216 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=886.39355, y[0]=2050.4512, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858526717, downTime=858526481, deviceId=-1, source=0x1002, displayId=0, eventId=383784046 } handled by client, just return
+
+[2026-06-25 05:56:13.216 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.294655 refreshRate 8277472 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:13.750 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 12.366205 refreshRate 8277903 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:14.814 Uid(value=10609):6059:6059 I/chromium]
+[INFO:CONSOLE(11036)] "Storage save actionData0 success [object Object]", source: file:///android_asset/game.js (11036)
+
+[2026-06-25 05:56:14.895 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 6 cost 56.83713 refreshRate 8278594 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:16.080 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=851.2705, y[0]=2052.7012, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858529578, downTime=858529480, deviceId=-1, source=0x1002, displayId=0, eventId=850669385 } handled by client, just return
+
+[2026-06-25 05:56:16.926 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 9.866646 refreshRate 8277615 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:17.417 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=865.70703, y[0]=2094.5127, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858530917, downTime=858530173, deviceId=-1, source=0x1002, displayId=0, eventId=179713276 } handled by client, just return
+
+[2026-06-25 05:56:18.202 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 10.956482 refreshRate 8277726 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:18.366 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 9.868421 refreshRate 8277885 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:18.721 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=876.58203, y[0]=2069.3252, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858532208, downTime=858531439, deviceId=-1, source=0x1002, displayId=0, eventId=1044947396 } handled by client, just return
+
+[2026-06-25 05:56:18.721 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.966615 refreshRate 8277901 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:20.124 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=879.51855, y[0]=2079.5127, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858533627, downTime=858532761, deviceId=-1, source=0x1002, displayId=0, eventId=1018535817 } handled by client, just return
+
+[2026-06-25 05:56:20.361 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 9.199245 refreshRate 8277373 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:21.428 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.411952 refreshRate 8276450 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:21.570 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=892.51855, y[0]=2065.8877, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858535070, downTime=858534188, deviceId=-1, source=0x1002, displayId=0, eventId=23178593 } handled by client, just return
+
+[2026-06-25 05:56:22.363 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.68479 refreshRate 8277590 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:22.902 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=883.58105, y[0]=2072.5752, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858536401, downTime=858535616, deviceId=-1, source=0x1002, displayId=0, eventId=11211928 } handled by client, just return
+
+[2026-06-25 05:56:24.090 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=890.20605, y[0]=2071.0752, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858537578, downTime=858536923, deviceId=-1, source=0x1002, displayId=0, eventId=569391299 } handled by client, just return
+
+[2026-06-25 05:56:24.091 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 14.909712 refreshRate 8277252 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:24.590 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.474153 refreshRate 8277000 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:25.132 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=883.20605, y[0]=2080.8877, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858538627, downTime=858538060, deviceId=-1, source=0x1002, displayId=0, eventId=455947500 } handled by client, just return
+
+[2026-06-25 05:56:25.997 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 2 cost 16.803087 refreshRate 8277575 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:26.223 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=891.89355, y[0]=2066.7002, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858539715, downTime=858539060, deviceId=-1, source=0x1002, displayId=0, eventId=250451279 } handled by client, just return
+
+[2026-06-25 05:56:26.227 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 15.113525 refreshRate 8277318 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:27.225 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=897.64355, y[0]=2064.1377, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858540724, downTime=858540222, deviceId=-1, source=0x1002, displayId=0, eventId=769671260 } handled by client, just return
+
+[2026-06-25 05:56:28.175 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=894.83105, y[0]=2066.3877, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858541667, downTime=858541108, deviceId=-1, source=0x1002, displayId=0, eventId=216610050 } handled by client, just return
+
+[2026-06-25 05:56:29.557 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=893.95605, y[0]=2065.8877, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858543054, downTime=858542205, deviceId=-1, source=0x1002, displayId=0, eventId=825349061 } handled by client, just return
+
+[2026-06-25 05:56:29.791 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 11.38494 refreshRate 8277422 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:30.061 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.41737 refreshRate 8277304 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:30.401 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 8.62165 refreshRate 8276946 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:30.557 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 15.578406 refreshRate 8276998 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:30.857 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=903.3926, y[0]=2060.9502, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858544361, downTime=858543657, deviceId=-1, source=0x1002, displayId=0, eventId=238505539 } handled by client, just return
+
+[2026-06-25 05:56:31.967 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=895.58105, y[0]=2067.0752, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858545466, downTime=858544859, deviceId=-1, source=0x1002, displayId=0, eventId=596835063 } handled by client, just return
+
+[2026-06-25 05:56:32.530 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 10.857382 refreshRate 8278478 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:32.911 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=896.20605, y[0]=2068.7002, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858546410, downTime=858545891, deviceId=-1, source=0x1002, displayId=0, eventId=793007098 } handled by client, just return
+
+[2026-06-25 05:56:34.425 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+MotionEvent MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=888.45605, y[0]=2073.0127, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x802, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=858547918, downTime=858547013, deviceId=-1, source=0x1002, displayId=0, eventId=79338100 } handled by client, just return
+
+[2026-06-25 05:56:34.425 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 10.232725 refreshRate 8277441 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:36.877 Uid(value=10609):6059:6059 I/chromium]
+[INFO:CONSOLE(11036)] "Storage save actionData0 success [object Object]", source: file:///android_asset/game.js (11036)
+
+[2026-06-25 05:56:36.910 Uid(value=10609):6059:6059 I/Quality]
+Skipped: true 1 cost 11.379942 refreshRate 8277736 bit true processName com.ouanax.jumpandjump
+
+[2026-06-25 05:56:37.424 Uid(value=10609):6059:6059 W/VRI[MainActivity]]
+handleResized abandoned!
+
+[2026-06-25 05:56:37.452 Uid(value=10609):6059:6059 D/VRI[MainActivity]]
+onFocusEvent false
+
+[2026-06-25 05:56:38.321 Uid(value=10609):6059:6059 D/ScrollOptim [SceneManager]]
+updateCurrentActivity: mCurrentActivityName=null, isOptEnable=true, isAnimAheadEnable=true, isFrameInsertEnable=true, InsertNum=1, isEnabledForScrollChanged=false
+
+[2026-06-25 05:56:38.337 Uid(value=10609):6059:6059 D/VRI[MainActivity]]
+setWindowStopped stopped:true
+
+[2026-06-25 05:56:38.367 Uid(value=10609):6059:6059 D/OpenGLRenderer]
+RenderProxy::destroy: this=0xb400007b57706500, mContext=0xb400007aff2c0000
+
+[2026-06-25 05:56:38.367 Uid(value=10609):6059:6097 D/OpenGLRenderer]
+SkiaOpenGLPipeline::setSurface: this=0xb400007c2c26b780, surface=NULL
+
+[2026-06-25 05:56:38.368 Uid(value=10609):6059:6097 D/BufferQueueProducer]
+[VRI[MainActivity]#0(BLAST Consumer)0](id:17ab00000000,api:1,p:6059,c:6059) disconnect: api 1
+
+[2026-06-25 05:56:38.370 Uid(value=10609):6059:6097 D/BLASTBufferQueue]
+[VRI[MainActivity]#0](f:0,a:1) destructor()
+
+[2026-06-25 05:56:38.370 Uid(value=10609):6059:6097 D/BufferQueueConsumer]
+[VRI[MainActivity]#0(BLAST Consumer)0](id:17ab00000000,api:0,p:-1,c:6059) disconnect
+
+[2026-06-25 05:56:38.373 Uid(value=10609):6059:6059 D/ViewRootImplExtImpl]
+wrapConfigInfoIntoFlags rotation=0, smallestScreenWidthDp=425, relayoutAsync=false, newFlags=27852800, title=com.ouanax.jumpandjump/com.ouanax.jumpandjump.MainActivity
+
+[2026-06-25 05:56:38.389 Uid(value=10609):6059:6059 D/VRI[MainActivity]]
+relayoutWindow result, sizeChanged:false, surfaceControlChanged:true, transformHintChanged:false, mSurfaceSize:Point(1264, 2640), mLastSurfaceSize:Point(1264, 2640), mWidth:1264, mHeight:2640, requestedWidth:1264, requestedHeight:2640, transformHint:0, lastTransformHint:0, installOrientation:0, displayRotation:0, isSurfaceValid:false, attr.flag:-2122252032, useBlast:true, tmpFrames:ClientWindowFrames{frame=[0,140][1264,2780] display=[0,140][1264,2780] parentFrame=[0,0][0,0]}, params:null
+
+[2026-06-25 05:56:38.404 Uid(value=10609):6059:6198 D/AAudio]
+AAudioStream_requestStop(s#1) called
+
+[2026-06-25 05:56:38.404 Uid(value=10609):6059:6198 D/AAudioStream]
+setState(s#1) from 4 to 9
+
+[2026-06-25 05:56:38.404 Uid(value=10609):6059:6198 D/AudioTrack]
+stop(42482): prior state:STATE_ACTIVE output 29 stream 3 session 224065
+
+[2026-06-25 05:56:38.404 Uid(value=10609):6059:6198 D/AudioTrack]
+stop(42482): called with 1647584 frames delivered
+
+[2026-06-25 05:56:38.405 Uid(value=10609):6059:6198 I/AudioTrack]
+stop(42482): 0xb400007aff28ee00 stop done
+
+[2026-06-25 05:56:38.405 Uid(value=10609):6059:6198 D/AAudioStream]
+setState(s#1) from 9 to 10
+
+[2026-06-25 05:56:38.416 Uid(value=10609):6059:6087 D/VRI[MainActivity]]
+dispatchAppVisibility visible:false
+
+[2026-06-25 05:56:38.463 Uid(value=10609):6059:6419 D/OplusScrollToTopManager]
+com.ouanax.jumpandjump/com.ouanax.jumpandjump.MainActivity,This DecorView@1c03b8[MainActivity] change focus to false
+

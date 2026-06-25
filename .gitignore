@@ -1,0 +1,15 @@
+# Android build artifacts
+android/.gradle/
+android/build/
+android/app/build/*.bin
+android/app/build/intermediates/
+android/app/build/tmp/
+android/app/build/reports/
+android/app/build/outputs/logs/
+
+# Keep the APK but exclude build intermediates
+!android/app/build/outputs/apk/debug/app-debug.apk
+
+# IDE
+.idea/
+*.iml
