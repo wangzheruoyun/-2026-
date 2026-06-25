@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.ouanax.jumpandjump"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="35" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <permission
+13-->[androidx.core:core:1.9.0] /home/ouanax/.gradle/caches/8.13/transforms/5418d86f9bf51acc009e025a9c494d67/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+14        android:name="com.ouanax.jumpandjump.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+14-->[androidx.core:core:1.9.0] /home/ouanax/.gradle/caches/8.13/transforms/5418d86f9bf51acc009e025a9c494d67/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+15        android:protectionLevel="signature" />
+15-->[androidx.core:core:1.9.0] /home/ouanax/.gradle/caches/8.13/transforms/5418d86f9bf51acc009e025a9c494d67/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+16
+17    <uses-permission android:name="com.ouanax.jumpandjump.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+17-->[androidx.core:core:1.9.0] /home/ouanax/.gradle/caches/8.13/transforms/5418d86f9bf51acc009e025a9c494d67/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+17-->[androidx.core:core:1.9.0] /home/ouanax/.gradle/caches/8.13/transforms/5418d86f9bf51acc009e025a9c494d67/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+18
+19    <application
+19-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:6:5-24:19
+20        android:allowBackup="true"
+20-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:7:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.9.0] /home/ouanax/.gradle/caches/8.13/transforms/5418d86f9bf51acc009e025a9c494d67/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+22        android:debuggable="true"
+23        android:extractNativeLibs="true"
+24        android:hardwareAccelerated="true"
+24-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:10:9-43
+25        android:label="群主的跳一跳"
+25-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:8:9-31
+26        android:supportsRtl="true"
+26-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:9:9-35
+27        android:theme="@style/Theme.AppCompat.NoActionBar" >
+27-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:11:9-59
+28        <activity
+28-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:13:9-23:20
+29            android:name="com.ouanax.jumpandjump.MainActivity"
+29-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:14:13-41
+30            android:configChanges="orientation|screenSize|keyboardHidden"
+30-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:16:13-74
+31            android:exported="true"
+31-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:17:13-36
+32            android:screenOrientation="portrait"
+32-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:15:13-49
+33            android:windowSoftInputMode="adjustNothing" >
+33-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:18:13-56
+34            <intent-filter>
+34-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:19:13-22:29
+35                <action android:name="android.intent.action.MAIN" />
+35-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:20:17-69
+35-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:20:25-66
+36
+37                <category android:name="android.intent.category.LAUNCHER" />
+37-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:21:17-77
+37-->/media/sd/跳一跳/android/app/src/main/AndroidManifest.xml:21:27-74
+38            </intent-filter>
+39        </activity>
+40
+41        <provider
+41-->[androidx.emoji2:emoji2:1.2.0] /home/ouanax/.gradle/caches/8.13/transforms/7d4c1130c1a3f20467892e9db1658fa0/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+42            android:name="androidx.startup.InitializationProvider"
+42-->[androidx.emoji2:emoji2:1.2.0] /home/ouanax/.gradle/caches/8.13/transforms/7d4c1130c1a3f20467892e9db1658fa0/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:25:13-67
+43            android:authorities="com.ouanax.jumpandjump.androidx-startup"
+43-->[androidx.emoji2:emoji2:1.2.0] /home/ouanax/.gradle/caches/8.13/transforms/7d4c1130c1a3f20467892e9db1658fa0/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:26:13-68
+44            android:exported="false" >
+44-->[androidx.emoji2:emoji2:1.2.0] /home/ouanax/.gradle/caches/8.13/transforms/7d4c1130c1a3f20467892e9db1658fa0/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:27:13-37
+45            <meta-data
+45-->[androidx.emoji2:emoji2:1.2.0] /home/ouanax/.gradle/caches/8.13/transforms/7d4c1130c1a3f20467892e9db1658fa0/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+46                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+46-->[androidx.emoji2:emoji2:1.2.0] /home/ouanax/.gradle/caches/8.13/transforms/7d4c1130c1a3f20467892e9db1658fa0/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:30:17-75
+47                android:value="androidx.startup" />
+47-->[androidx.emoji2:emoji2:1.2.0] /home/ouanax/.gradle/caches/8.13/transforms/7d4c1130c1a3f20467892e9db1658fa0/transformed/jetified-emoji2-1.2.0/AndroidManifest.xml:31:17-49
+48            <meta-data
+48-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/ouanax/.gradle/caches/8.13/transforms/53906f106ffc6093ff6f6b4fed8ea85c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+49                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+49-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/ouanax/.gradle/caches/8.13/transforms/53906f106ffc6093ff6f6b4fed8ea85c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+50                android:value="androidx.startup" />
+50-->[androidx.lifecycle:lifecycle-process:2.4.1] /home/ouanax/.gradle/caches/8.13/transforms/53906f106ffc6093ff6f6b4fed8ea85c/transformed/jetified-lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+51        </provider>
+52    </application>
+53
+54</manifest>

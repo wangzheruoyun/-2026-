@@ -1,17 +1,8 @@
-# Gradle caches
-android/.gradle/
-
-# Build intermediates (not build outputs - keep the APK)
-android/**/build/intermediates/
-android/**/build/tmp/
-android/**/build/reports/
-android/**/build/*.bin
-android/**/build/outputs/logs/
+# Android build artifacts
+.gradle/
+build/
+*/build/
 
 # IDE
 .idea/
 *.iml
-
-# OS
-.DS_Store
-Thumbs.db
